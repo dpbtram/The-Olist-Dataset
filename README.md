@@ -38,7 +38,7 @@ By state, the notebook shows some of the highest average scores in AP (~4.18), A
 
 Customers — and thus orders — are heavily concentrated in the Southeast:
 
-Tge notebook’s output shows São Paulo (SP) alone accounts for about 37.47% of top 5 states regarding total turnover, with Rio de Janeiro (RJ) next at roughly 13%.
+The notebook’s output shows São Paulo (SP) alone accounts for about 37.47% of top 5 states regarding total turnover, with Rio de Janeiro (RJ) next at roughly 13%.
 
 The remaining flow is spread across MG, RS, PR, and other states, with progressively smaller shares as you move away from the core Southeast corridor.
 
